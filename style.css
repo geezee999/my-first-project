@@ -168,9 +168,18 @@ text-decoration: underline;
  .nav-bar  .Sign-in:hover {
 
    text-decoration: none;
+   border: 10px solid blue;
    
 
 }
+
+ .nav-bar  .Sign-in a:hover {
+
+   border: 10px solid blue;
+   
+
+}
+
 
 
 .nav-bar ol  .Sign-in{
